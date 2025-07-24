@@ -1,7 +1,7 @@
 # Projeto Starbucks – Estudo de Site Responsivo com HTML e CSS
 
-<img width="371" height="846" alt="Image" src="https://github.com/user-attachments/assets/7c3d57a2-78ee-41a7-861a-369fd1b9cd55" style="width: 200px;" />
-<img width="1855" height="914" alt="Image" src="https://github.com/user-attachments/assets/1ea7011a-55f4-4c83-99dc-dc1c70253fa5" style="width: 800px;" />
+<img width="371" height="846" alt="Image" src="https://github.com/user-attachments/assets/7c3d57a2-78ee-41a7-861a-369fd1b9cd55" style="width: 100px;" />
+<img width="1855" height="914" alt="Image" src="https://github.com/user-attachments/assets/1ea7011a-55f4-4c83-99dc-dc1c70253fa5" style="width: 400px;" />
 
 ## 📜 Sobre o Projeto
 
