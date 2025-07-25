@@ -36,7 +36,9 @@ Este projeto visa reproduzir, de maneira simplificada e educacional, uma página
 ## 🔍 Status do Projeto
 
 > ✅ **Projeto concluído como exercício prático do curso.**  
-> Este repositório será mantido como referência de aprendizado, podendo ser aprimorado futuramente com novos recursos.
+> Projeto finalizado como prática de consolidação dos conhecimentos em JavaScript.
+O presente repositório tem finalidade didática e representa um exercício concreto para fixar os fundamentos da linguagem JavaScript aplicados à manipulação de eventos, elementos do DOM e reprodução de áudio em páginas web.
+A implementação cumpre seu propósito educacional e poderá, no futuro, ser revista com o objetivo de reforçar os conceitos já estudados.
 
 ---
 
